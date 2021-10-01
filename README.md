@@ -68,7 +68,7 @@ libft
 1. Git clone this repository to your rocal environment. (If you already git user and could reach here, then you know this command.)
 
 ```
-git clone git@github.com:HinataKikuchi/minitalk.git
+git clone git@github.com:HinataKikuchi/libft.git
 ```
 
 2. JUST DO MAKE.
